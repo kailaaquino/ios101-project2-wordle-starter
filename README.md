@@ -2,7 +2,7 @@
 
 Submitted by: **Kaila Aquino**
 
-**Wordle ** is an app that generates a word for the users to guess. The user can customize their Wordle by changing the length of the word, the number of guesses, and the theme of the word. 
+**Wordle** is an app that generates a word for the users to guess. The user can customize their Wordle by changing the length of the word, the number of guesses, and the theme of the word. 
 
 Time spent: **2.5** hours spent in total
 
